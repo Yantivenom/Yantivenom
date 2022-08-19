@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yantivenom
 - 👀 I’m interested in modding
-- 🌱 I’m currently learning unity
-- 💞️ I’m looking to collaborate on Tmodloader
+- 🌱 I’m currently learning Lua and GDscript
+- 💞️ I’m looking to collaborate on nothing cuz im not good enough
 - 📫 How to reach me @TrueYantivenom on Twitter
 
 <!---
